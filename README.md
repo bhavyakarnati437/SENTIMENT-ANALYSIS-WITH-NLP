@@ -75,4 +75,6 @@ The model performs well on unseen reviews, accurately predicting their sentiment
 Visualization of the confusion matrix and classification report helps in understanding how well the model is distinguishing between positive and negative sentiments.
 
 # OUTPUT
+![Image](https://github.com/user-attachments/assets/7d17305c-44a5-4bf6-b732-34a24657f50a)
 
+![Image](https://github.com/user-attachments/assets/7c847f0d-6de0-45d6-9d27-a48ea049346d)
